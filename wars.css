@@ -1,0 +1,55 @@
+body{
+background-image: url(skull-artwork-minimalism-gray-background-wallpaper-preview.jpg);
+background-color: gray;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+
+h1{
+    margin-left: 500px;
+}
+
+
+
+
+
+.nthree dd{
+    color:burlywood;
+}
+
+.nthree dt{
+    color: red;
+}
+
+.nthree a{
+    color: rgb(255, 136, 0);
+}
+
+ul a, ul li{
+    color: rgb(249, 249, 249);
+}
+
+ol li{
+    color: chocolate;
+    
+}
+h2{
+    font-size: 30px;
+    color: rgb(184, 66, 3);
+
+    margin-left: 400px;
+}
+.none{
+    margin-left: 600px;
+}
+
+.ntwo{
+    margin-left: 600px;
+}
+
+ol{
+    border: 2px blue;
+}
+
+
